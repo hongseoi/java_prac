@@ -18,6 +18,6 @@ public class ConditionEX_2525 {
             }
         }
     }
-    System.out.println(h+" "+m );
+    System.out.println(h + " " + m );
 
 }

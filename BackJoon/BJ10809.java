@@ -23,5 +23,5 @@ public class BJ10809 {
         for(int val:arr) System.out.println(val + " ");
 
 
-=    }
+    }
 }

@@ -9,9 +9,7 @@ public class CH9_5 extends JFrame {
         setSize(400,200);
         setVisible(true);
 
-        for(int i=0; i<16; i++){
-            JLabel jla[i] = new JLabel(COLOR.math.RANDOM);
-        }
+
 
     }
 
